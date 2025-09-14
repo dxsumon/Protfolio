@@ -1,0 +1,38 @@
+@media only screen and (max-width:767px)
+{
+    .menu
+    {
+        display: inline;
+        font-size: 25px;
+    }
+    .hamburger-menu
+    {
+        display: none;
+    }
+    .main-container
+    {
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+        line-height: 1.5;
+    }
+    .left-text h1{
+        font-size: 50px;
+    }
+    .skills_description img
+    {
+        width: 300px;
+    }
+    .skills-list
+    {
+        font-size: 20px;
+    }
+    .skills_description
+    {
+        flex-direction: column-reverse;
+    }
+    .skills-icons
+    {
+        color: #9973fa;
+        font-weight: bolder;
+    }
+}
