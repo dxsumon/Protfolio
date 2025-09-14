@@ -1,5 +1,14 @@
 @media only screen and (max-width:767px)
 {
+    .header-section
+    {
+        padding: 5px;
+    }
+    .logo
+    {
+        font-size: 15px;
+        font-weight: bolder;
+    }
     .menu
     {
         display: inline;
