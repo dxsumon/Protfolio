@@ -48,4 +48,11 @@
         font-size: 2rem;
         /* margin-top: 10px; */
     }
+    .welcome-container p{
+        font-size: 1rem;
+    }
+    .bye
+    {
+        font-size: 2rem;
+    }
 }
