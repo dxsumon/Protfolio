@@ -2,17 +2,17 @@
 {
     .header-section
     {
-        padding: 5px;
+        padding: 2px;
     }
     .logo
     {
-        font-size: 15px;
+        font-size: 10px;
         font-weight: bolder;
     }
     .menu
     {
         display: inline;
-        font-size: 25px;
+        font-size: 10px;
     }
     .hamburger-menu
     {
